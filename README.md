@@ -1,5 +1,5 @@
 # DSA-23Dec24-Array-Day1
-🚀 50 Days of DSA & System Design Challenges: Day 1 Completed! 🔥
+🚀 50 Days of DSA & System Design Challenges:  Completed! 🔥
 
 Today marks the beginning of an exciting journey of practicing 50 days of Data Structures and Algorithms (DSA) and System Design challenges! 🙌
 
